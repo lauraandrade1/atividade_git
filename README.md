@@ -1,4 +1,4 @@
-# Repositório do Grupo - Anotações e Guia de Estudos - ana-laura, Laura-Reis e laura-andrade
+# Repositório do Grupo - Anotações e Guia de Estudos
 
 Este repositório foi criado para a Atividade Avaliativa de Git e GitHub em Equipe. O objetivo do projeto é aplicar na prática os conceitos de versionamento e colaboração utilizando Git e GitHub, registrando as contribuições de todos os integrantes por meio de commits.
 
